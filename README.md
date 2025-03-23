@@ -106,3 +106,5 @@ I'm a **Cybersecurity Enthusiast & Future Ethical Hacker** 🕵️‍♂️ Brea
 📬 [Email Me](mailto:nikhilpatidar132@gmail.com) | 🐦 [Twitter](https://twitter.com/nikhilpatidar01) | 💼 [LinkedIn](https://linkedin.com/in/nikhilpatidar01)  
 
 ⚡ **Fun Fact:** *I don’t "hack" for fun, I hack to make the world safer!* 🔥  
+
+
