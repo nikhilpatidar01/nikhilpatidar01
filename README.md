@@ -4,7 +4,7 @@
   <h2>🎯 AICWSA Certified | Cybersecurity Student</h2>
   <h3>🚀 Future Ethical Hacker | Security Enthusiast</h3>
 
-  <img src="https://github.com/nikhilpatidar01/Nikhil-Patidar/blob/Master/Nikhil.jpg.jpeg" 
+  <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Nikhil.jpg.jpeg" 
        alt="Nikhil Patidar" 
        width="500" 
        style="border-radius: 15px; margin-top: 15px;">
