@@ -85,8 +85,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhilpatidar01&label=Profile%20views&color=0e75b6&style=flat)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=nikhilpatidar01)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Z4nzu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
