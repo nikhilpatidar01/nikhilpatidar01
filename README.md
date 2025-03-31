@@ -6,14 +6,7 @@
   <h1 align="center"> 
   👾🔥 𝙷𝙰𝙲𝙺𝙸𝙽𝙶 𝙼𝙾𝙳𝙴 𝙾𝙽 🔥👾
 </h1>
-  
-  <h1> <div align="right" style="background-color: black; padding: 10px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=10&color=00FF00&width=900&height=100&lines=%23+Who+am+i+🤔;I+am+Nikhil+🧑‍💻;Bug+Bounty+Hunter+🔍;Penetration+Tester+💻;Security+Researcher+🛡️;Open+Source+Contributor+🌍" alt="Typing SVG">
-</div>
-
-</h1>
-
-  
+   
   <h1>Hi, I am <strong>NIKHIL PATIDAR</strong> 👋</h1>
 
   <h2>🎯 AICWSA Certified | Cybersecurity Student</h2>
@@ -43,6 +36,11 @@
 </div>
 
 
+  <h1> <div align="right" style="background-color: black; padding: 10px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=10&color=00FF00&width=900&height=100&lines=%23+Who+am+i+🤔;I+am+Nikhil+🧑‍💻;Bug+Bounty+Hunter+🔍;Penetration+Tester+💻;Security+Researcher+🛡️;Open+Source+Contributor+🌍" alt="Typing SVG">
+</div>
+
+</h1>
 
 
 ### 🛠️ Languages & Tools
