@@ -115,11 +115,17 @@ I'm a **Cybersecurity Enthusiast & Future Ethical Hacker** 🕵️‍♂️ Brea
 
 ⚡ **Fun Fact:** *I don’t "hack" for fun, I hack to make the world safer!* 🔥  
 
+### Languages Knowledge:
+| HTML | C | C++ | Python | PHP | Java |
+|------|----|-----|--------|-----|------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="70" height="70"/> |
 
+### Operating System (OS) Knowledge:
+| Android | Ubuntu | Debian | CentOS | Linux | Kali Linux |
+|---------|--------|--------|--------|-------|------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/canaleal/devicon/574bbc63b185777b0b1a39240c5bb06d99cdb7e6/icons/kalilinux/kalilinux-original-wordmark.svg" width="70" height="70"/> |
 
-
-
-
-
-
-
+### Other Knowledge:
+| Bash | VSCode | MySQL | WordPress | VirtualBox | Docker |
+|------|--------|-------|-----------|------------|--------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="70" height="70"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" width="70" height="70"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70" height="70"/> |
