@@ -129,3 +129,20 @@ I'm a **Cybersecurity Enthusiast & Future Ethical Hacker** 🕵️‍♂️ Brea
 | Bash | VSCode | MySQL | WordPress | VirtualBox | Docker |
 |------|--------|-------|-----------|------------|--------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="70" height="70"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" width="70" height="70"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70" height="70"/> |
+
+
+### Tools Knowledge:  
+| Burp Suite | Nmap | Metasploit | Wireshark | Netcat | John the Ripper |  
+|------------|------|------------|-----------|--------|----------------|  
+| <img src="https://portswigger.net/cms/images/62/91/7a27-article-210705-burp-suite-certified.png" width="70" height="70"/> | <img src="https://nmap.org/images/nmap-logo-256x256.png" width="70" height="70"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Metasploit_logo.png" width="70" height="70"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo.svg" width="70" height="70"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Netcat-logo.svg" width="70" height="70"/> | <img src="https://pentestlab.blog/wp-content/uploads/2017/04/john-the-ripper.png" width="70" height="70"/> |  
+
+
+
+लगता है कि कुछ इमेजेज डायरेक्ट एंबेड नहीं हो रही हैं। मैं इन्हें ऐसी इमेजेस से रिप्लेस कर रहा हूँ जो सही से काम करेंगी।  
+
+### Tools:  
+| Burp Suite | Nmap | Metasploit | Wireshark | Netcat | John the Ripper |  
+|------------|------|------------|-----------|--------|----------------|  
+| <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Burp_suite_logo.png" width="70" height="70"/> | <img src="https://nmap.org/images/nmap-logo-256x256.png" width="70" height="70"/> | <img src="https://www.kali.org/tools/metasploit-framework/img/metasploit-framework-logo.svg" width="70" height="70"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo.svg" width="70" height="70"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Netcat-logo.svg" width="70" height="70"/> | <img src="https://www.openwall.com/john/john-logo.gif" width="70" height="70"/> |  
+
+अब इसे चेक करें, यह सही से दिखना चाहिए। 😃
