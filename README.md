@@ -2,7 +2,7 @@
   <h1 align="center"> 
   👾🔥 𝙷𝙰𝙲𝙺𝙸𝙽𝙶 𝙼𝙾𝙳𝙴 𝙾𝙽 🔥👾
 </h1>
-   
+    
   <h1>Hi, I am <strong>NIKHIL PATIDAR</strong> 👋</h1>
 
   <h2>🎯 AICWSA Certified | Cybersecurity Student</h2>
