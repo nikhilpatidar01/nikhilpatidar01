@@ -1,21 +1,3 @@
-<div align="center" style="background-color: black; padding: 20px;">
-  <h1 style="color: red; font-family: monospace;">🔥 RED TEAM - Offensive Security 🔥</h1>
-  
-  <video src="https://www.shutterstock.com/shutterstock/videos/3676707829/preview/stock-footage-hacker-in-hoodie-working-in-dark-abstract-space-laptop-keyboard-typing-matrix-symbols-effect.webm" 
-         width="720" 
-         controls 
-         autoplay 
-         muted 
-         loop 
-         style="border: 3px solid red; border-radius: 10px;">
-    Your browser does not support the video tag.
-  </video>
-  
-  <p style="color: white; font-family: monospace; margin-top: 10px;">
-    Hacker in action - Typing in the dark with matrix symbols. Welcome to the Red Team Zone 💀
-  </p>
-</div>
-
 
 
 
