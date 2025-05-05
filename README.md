@@ -32,12 +32,14 @@
     </a>
   </p>
 
-</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=700&lines=I+am+Nikhil;Bug+Bounty+Hunter;Penetration+Tester" alt="Typing SVG" />
+</p>
 
 
-  <h1> <div align="right" style="background-color: black; padding: 10px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=10&color=00FF00&width=900&height=100&lines=%23+Who+am+i+🤔;I+am+Nikhil+🧑‍💻;Bug+Bounty+Hunter+🔍;Penetration+Tester+💻;Security+Researcher+🛡️;Open+Source+Contributor+🌍" alt="Typing SVG">
-</div>
+
+
 
 
 
