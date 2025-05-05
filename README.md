@@ -33,7 +33,7 @@
   </p>
 
 
-<p align="center">
+<p align="lefr">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=700&lines=I+am+Nikhil;Bug+Bounty+Hunter;Penetration+Tester" alt="Typing SVG" />
 </p>
 
