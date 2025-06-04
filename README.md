@@ -96,10 +96,3 @@ I'm a **Cybersecurity Enthusiast & Future Ethical Hacker** 🕵️‍♂️ Brea
 
 ⚡ **Fun Fact:** *I don’t "hack" for fun, I hack to make the world safer!* 🔥  
 
-
-
-### 🏆 Achievements
-
-| Windows Server | Linux Server | WordPress |
-|----------------|--------------|-----------|
-| <img src="https://certs.armourinfosec.com/aicwsa/nikhil-patidar/" style="width: 70px; height: 70px; object-fit: contain;"/> 
