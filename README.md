@@ -95,3 +95,11 @@ I'm a **Cybersecurity Enthusiast & Future Ethical Hacker** 🕵️‍♂️ Brea
 📬 [Email Me](mailto:nikhilpatidar132@gmail.com) | 🐦 [Twitter](https://twitter.com/nikhilpatidar01) | 💼 [LinkedIn](https://linkedin.com/in/nikhilpatidar01)  
 
 ⚡ **Fun Fact:** *I don’t "hack" for fun, I hack to make the world safer!* 🔥  
+
+
+
+### 🏆 Achievements
+
+| Windows Server | Linux Server | WordPress |
+|----------------|--------------|-----------|
+| <img [src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Burp%20Suite.png"](https://certs.armourinfosec.com/aicwsa/nikhil-patidar/) style="width: 70px; height: 70px; object-fit: contain;"/> 
