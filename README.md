@@ -76,6 +76,13 @@
 | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Burp%20Suite.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Nmap.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Meta%20Sploit.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Wireshark.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/Netcat.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/John%20the%20Ripper.png" style="width: 70px; height: 70px; object-fit: contain;"/> |
 
 
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
+
+
 </h1>
 ### 📊 GitHub Stats:
 <p align="center">
@@ -94,6 +101,11 @@
 
 💡 **Who am I?**  
 I'm a **Cybersecurity Enthusiast & Future Ethical Hacker** 🕵️‍♂️ Breaking things to make them more **secure** 🔐   
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 
 🛠 **What I Do?**  
