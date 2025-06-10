@@ -1,3 +1,12 @@
+<!-- Top Banner (Responsive) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient" alt="Welcome Banner"/>
+</p>
+
+<!-- Typing Quote Centered -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=500&height=80&lines=%22The+beauty+of+software+lies+not+in;+its+complexity%2C+but+in+its+simplicity.%22+;+-Me" alt="Typing Quote"/>
+</p>
 
 
 
