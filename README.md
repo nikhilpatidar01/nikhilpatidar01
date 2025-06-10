@@ -97,15 +97,18 @@
 
 
 
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
+
+
+
 ### 🚀 About Me  
 
 💡 **Who am I?**  
 I'm a **Cybersecurity Enthusiast & Future Ethical Hacker** 🕵️‍♂️ Breaking things to make them more **secure** 🔐   
 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
 
 
 🛠 **What I Do?**  
@@ -115,6 +118,12 @@ I'm a **Cybersecurity Enthusiast & Future Ethical Hacker** 🕵️‍♂️ Brea
 
 📩 **Reach Out to Me:**  
 📬 [Email Me](mailto:nikhilpatidar132@gmail.com) | 🐦 [Twitter](https://twitter.com/nikhilpatidar01) | 💼 [LinkedIn](https://linkedin.com/in/nikhilpatidar01)  
+
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
 ⚡ **Fun Fact:** *I don’t "hack" for fun, I hack to make the world safer!* 🔥  
 
