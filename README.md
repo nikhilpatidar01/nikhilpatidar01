@@ -13,7 +13,7 @@
     
   <h1>Hi, I am <strong>NIKHIL PATIDAR</strong> 👋</h1>
 
-  <h2>🎯 AICWSA Certified | Cybersecurity Student</h2>
+  <h2>🎯 AICWSA and AICLSA Certified | Cybersecurity Student</h2>
   <h3>🚀 Future Ethical Hacker | Security Enthusiast</h3>
 
   <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Nikhil.jpg.jpeg" 
