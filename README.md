@@ -124,50 +124,47 @@ I'm a **Cybersecurity Enthusiast & Future Ethical Hacker** 🕵️‍♂️ Brea
 
 
 
+<div align="center">
+  <table>
+    <tr>
+      <!-- LinkedIn -->
+      <td>
+        <a href="https://www.linkedin.com/in/nikhilpatidar01/" target="_blank">
+          <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(3).gif?raw=true" height="60" width="60" alt="LinkedIn">
+        </a>
+      </td>
 
+      <!-- Gmail -->
+      <td>
+        <a href="mailto:nikhilpatidar132@gmail.com" target="_blank">
+          <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(2).gif?raw=true" height="50" width="50" alt="Gmail">
+        </a>
+      </td>
 
+      <!-- Instagram -->
+      <td>
+        <a href="https://www.instagram.com/nikhilpatidar01/" target="_blank">
+          <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/Instagram%20(1).gif?raw=true" height="50" width="50" alt="Instagram">
+        </a>
+      </td>
 
+      <!-- Twitter / X -->
+      <td>
+        <a href="https://x.com/nikhilpatidar01" target="_blank">
+          <img src="https://media.giphy.com/media/Q8XuVONp25W8qAoXyX/giphy.gif" height="50" width="50" alt="Twitter / X">
+        </a>
+      </td>
 
-
-<!-- Bottom Banner (Responsive) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&text=Thank%20You!&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff" alt="Thank You Banner"/><br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
-
-<h3 align="center">
-<img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/code.gif" height="20"/>
-Connect with me:
-<img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/code.gif" height="20"/>
-</h3> 
-
-
-Connect with me:  <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/code.gif" height="20"/>
- <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
-</h3>  
-
-
- <div align="center">
-    <table>
-        <tr>
-            <td>
-                <a href="https://www.linkedin.com/in/josiquoos/" target="blank">
-                    <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(3).gif" height="60" width="60">
-                </a>
-            </td>
-            <td >
-                <a href="mailto:josiquoos@gmail.com" target="_blank">
-                    <img align="center" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(2).gif" alt="gmail logo" height="50" width="50">
-                </a>
-            </td>
-            <td >
-                <a href="https://www.instagram.com/josidataworks/" target="blank">
-                    <img align="center" src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/Instagram%20(1).gif" alt="Piyush_Singh" height="50" width="50">
-                </a>
-            </td>
-        </tr>
-    </table>
+      <!-- YouTube -->
+      <td>
+        <a href="https://www.youtube.com/@Nikhilpatidar01" target="_blank">
+          <img src="https://media.giphy.com/media/M9mA1cUqvaN7aHbwzO/giphy.gif" height="50" width="50" alt="YouTube">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 
