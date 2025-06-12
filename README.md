@@ -30,7 +30,6 @@ Connect with me:
 </h3>
 
 
-
 <div align="center">
   <table>
     <tr>
@@ -67,8 +66,6 @@ Connect with me:
     </tr>
   </table>
 </div>
-
-
 
 
 
