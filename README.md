@@ -140,12 +140,10 @@ Connect with me:
 💡 **Who am I?**  
 I'm a **Cybersecurity Enthusiast & Future Ethical Hacker** 🕵️‍♂️ Breaking things to make them more **secure** 🔐   
 
-
-
 🛠 **What I Do?**  
-- 👨‍💻 Learning **Ethical Hacking & Penetration Testing**  
-- 🤝 Collaborating on **Cybersecurity Research & Bug Bounties**  
-- 🔍 Exploring **Advanced Penetration Testing Techniques**  
+ 👨‍💻 Learning **Ethical Hacking & Penetration Testing**  
+🤝 Collaborating on **Cybersecurity Research & Bug Bounties**  
+ 🔍 Exploring **Advanced Penetration Testing Techniques**  
 
 ⚡ **Fun Fact:** *I don’t "hack" for fun, I hack to make the world safer!* 🔥  
 
