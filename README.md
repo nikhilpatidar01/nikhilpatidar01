@@ -147,9 +147,6 @@ I'm a **Cybersecurity Enthusiast & Future Ethical Hacker** 🕵️‍♂️ Brea
 - 🤝 Collaborating on **Cybersecurity Research & Bug Bounties**  
 - 🔍 Exploring **Advanced Penetration Testing Techniques**  
 
-📩 **Reach Out to Me:**  
-📬 [Email Me](mailto:nikhilpatidar132@gmail.com) | 🐦 [Twitter](https://twitter.com/nikhilpatidar01) | 💼 [LinkedIn](https://linkedin.com/in/nikhilpatidar01)  
-
 ⚡ **Fun Fact:** *I don’t "hack" for fun, I hack to make the world safer!* 🔥  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
