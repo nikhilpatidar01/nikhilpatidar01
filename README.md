@@ -22,22 +22,55 @@
        width="500" 
        style="border-radius: 15px; margin-top: 15px;">
 
-  <h3>📬 Connect with Me:</h3>
-  <p>
-    <a href="https://twitter.com/nikhilpatidar01">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/nikhilpatidar01">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/nikhilpatidar01">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://www.youtube.com/@Nikhilpatidar01">
-      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
-    </a>
-  </p>
-  </div>
+
+<h3 align="center">
+ <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/GIF/code.gif" height="20"/> 
+Connect with me:
+ <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/GIF/code.gif" height="20"/>
+</h3>
+
+
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- LinkedIn -->
+      <td>
+        <a href="https://www.linkedin.com/in/nikhilpatidar01/" target="_blank">
+          <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/GIF/Linkdin.gif?raw=true" height="50" width="50" alt="LinkedIn">
+        </a>
+      </td>
+      <!-- Gmail -->
+      <td>
+        <a href="mailto:nikhilpatidar132@gmail.com" target="_blank">
+          <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/GIF/Gmail.gif?raw=true" alt="Gmail" height="50" width="50">
+        </a>
+      </td>
+      <!-- Instagram -->
+      <td>
+        <a href="https://www.instagram.com/nikhilpatidar01/" target="_blank">
+          <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/GIF/Instagram.gif?raw=true" alt="Instagram" height="50" width="50">
+        </a>
+      </td>
+      <!-- Twitter/X -->
+      <td>
+        <a href="https://x.com/nikhilpatidar01" target="_blank">
+          <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/GIF/Twitter.gif?raw=true" alt="Twitter/X" height="50" width="50">
+        </a>
+      </td>
+      <!-- YouTube -->
+      <td>
+        <a href="https://www.youtube.com/@Nikhilpatidar01" target="_blank">
+          <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/GIF/youtube.gif?raw=true" alt="YouTube" height="50" width="50">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
 
 
 
@@ -122,48 +155,6 @@ I'm a **Cybersecurity Enthusiast & Future Ethical Hacker** 🕵️‍♂️ Brea
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
-
-
-<div align="center">
-  <table>
-    <tr>
-      <!-- LinkedIn -->
-      <td>
-        <a href="https://www.linkedin.com/in/nikhilpatidar01/" target="_blank">
-          <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(3).gif?raw=true" height="60" width="60" alt="LinkedIn">
-        </a>
-      </td>
-
-      <!-- Gmail -->
-      <td>
-        <a href="mailto:nikhilpatidar132@gmail.com" target="_blank">
-          <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(2).gif?raw=true" height="50" width="50" alt="Gmail">
-        </a>
-      </td>
-
-      <!-- Instagram -->
-      <td>
-        <a href="https://www.instagram.com/nikhilpatidar01/" target="_blank">
-          <img src="https://github.com/JosiTubaroski/JosiTubaroski/blob/main/img/Instagram%20(1).gif?raw=true" height="50" width="50" alt="Instagram">
-        </a>
-      </td>
-
-      <!-- Twitter / X -->
-      <td>
-        <a href="https://x.com/nikhilpatidar01" target="_blank">
-          <img src="https://media.giphy.com/media/Q8XuVONp25W8qAoXyX/giphy.gif" height="50" width="50" alt="Twitter / X">
-        </a>
-      </td>
-
-      <!-- YouTube -->
-      <td>
-        <a href="https://www.youtube.com/@Nikhilpatidar01" target="_blank">
-          <img src="https://media.giphy.com/media/M9mA1cUqvaN7aHbwzO/giphy.gif" height="50" width="50" alt="YouTube">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 
