@@ -14,7 +14,7 @@
     
   <h1>Hi, I am <strong>NIKHIL PATIDAR</strong> 👋</h1>
 
-  <h2> (<a href="https://certs.armourinfosec.com/aicwsa/nikhil-patidar/" target="_blank">AICWSA</a>) and (<a href="https://certs.armourinfosec.com/aiclsa/nikhil-patidar/" target="_blank">AICLSA</a>)Certified | Cybersecurity Student</h2>
+  <h2> (<a href="https://certs.armourinfosec.com/aicwsa/nikhil-patidar/" target="_blank">AICWSA</a>) and (<a href="https://certs.armourinfosec.com/aiclsa/nikhil-patidar/" target="_blank">AICLSA</a>) Certified | Cybersecurity Student</h2>
   <h3>🚀 Future Ethical Hacker | Security Enthusiast</h3>
 
   <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Nikhil.jpg.jpeg" 
