@@ -113,7 +113,7 @@ Connect with me:
 
 
 </h1>
-### 📊 GitHub Stats:
+📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhilpatidar01&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
 </p>
