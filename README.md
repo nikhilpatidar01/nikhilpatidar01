@@ -17,8 +17,8 @@
   <h2> <a href="https://certs.armourinfosec.com/aicwsa/nikhil-patidar/" target="_blank">AICWSA</a>, <a href="https://certs.armourinfosec.com/aiclsa/nikhil-patidar/" target="_blank">AICLSA</a> and <a href="https://certs.armourinfosec.com/aicwse/nikhil-patidar/" target="_blank">AICWSE</a> Certified | Cybersecurity Student</h2>
   <h3>🚀 Future Ethical Hacker | Security Enthusiast</h3>
 
-  <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Nikhil.jpg.jpeg" 
-       alt="Nikhil Patidar" 
+  <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/3D%20Image.jpg" 
+    alt="Nikhil Patidar" 
        width="500" 
        style="border-radius: 15px; margin-top: 15px;">
 
