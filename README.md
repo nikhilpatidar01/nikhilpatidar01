@@ -73,10 +73,10 @@ Connect with me:
 
 
 <!-- Greet Line Comes Here -->
-<p align="center">
-<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=00cc66&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
-</p>
 
+<p align="center">
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=00cc66&size=22&center=true&lines=Hello,+World!+I+am+Nikhil+Patidar+👋;Penetration+Tester+%26+Ethical+Hacker+🛡️;Hunting+Bugs+%26+Securing+the+Web+🐛🔒;Exploiting+Vulnerabilities+Responsibly+⚡;Let's+Collaborate+on+Security!+🤝"></a>
+</p>
 
 
 </p>
