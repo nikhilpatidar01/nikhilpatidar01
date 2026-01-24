@@ -8,15 +8,15 @@
 
   
 <div align="center">
-  <h1 align="center"> 
-  👾🔥 𝙷𝙰𝙲𝙺𝙸𝙽𝙶 𝙼𝙾𝙳𝙴 𝙾𝙽 🔥👾
-</h1>
     
   <h1>Hi, I am <strong>NIKHIL PATIDAR</strong> 👋</h1>
 
-  <h2> <a href="https://certs.armourinfosec.com/aicwsa/nikhil-patidar/" target="_blank">AICWSA</a>, <a href="https://certs.armourinfosec.com/aiclsa/nikhil-patidar/" target="_blank">AICLSA</a> and <a href="https://certs.armourinfosec.com/aicwse/nikhil-patidar/" target="_blank">AICWSE</a> Certified | Cybersecurity Student</h2>
-  <h3>🚀 Future Ethical Hacker | Security Enthusiast</h3>
-
+  <h2> <a href="https://certs.armourinfosec.com/aicwsa/nikhil-patidar/" target="_blank">AICWSA</a>, <a href="https://certs.armourinfosec.com/aiclsa/nikhil-patidar/" target="_blank">AICLSA</a>, <a href="https://certs.armourinfosec.com/aicwse/nikhil-patidar/" target="_blank">AICWSE</a>, <a href="https://academy.hackandfix.com/certificate-page/?user=3599&course=53700" target="_blank">CPPS</a> and <a href="https://www.udemy.com/certificate/UC-3b3d952f-94c3-4e25-8e32-2c1af63ee7aa/" target="_blank">CWPAT</a> Certified </h2>
+  <div align="center">
+  <h2 align="center"> 
+  👾🔥 Penetration Tester | Cybersecurity | Ethical Hacking 🔥👾
+</h2>
+    
 <!-- <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/3D%20Image.jpg" 
     alt="Nikhil Patidar" 
        width="500" 
@@ -84,11 +84,11 @@ Connect with me:
 </p> 
 
 
-### Languages Knowledge:
+<!-- ### Languages Knowledge:
 | HTML | C | C++ | Python | PHP | Java |
 |------|----|-----|--------|-----|------|
 | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/HTML.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/C.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/C%2B%2B.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/PYTHON.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/PHP.png" style="width: 70px; height: 70px; object-fit: contain;"/> | <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/Images/JAVA_SCRIPT.png" style="width: 70px; height: 70px; object-fit: contain;"/> |
-
+-->
 ### Operating System (OS) Knowledge:
 | Android | Ubuntu | Debian | CentOS | Linux | Kali Linux |
 |---------|--------|--------|--------|-------|------------|
@@ -121,30 +121,29 @@ Connect with me:
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhilpatidar01&label=Profile%20views&color=0e75b6&style=flat)
 
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Z4nzu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-
-</p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
-
  
+-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 🚀 About Me  
 
-💡 **Who am I?**  
-I'm a **Cybersecurity Enthusiast & Future Ethical Hacker** 🕵️‍♂️ Breaking things to make them more **secure** 🔐   
+**💡 Who am I?**
 
-🛠 **What I Do?**  
- 👨‍💻 Learning **Ethical Hacking & Penetration Testing**  
-🤝 Collaborating on **Cybersecurity Research & Bug Bounties**  
- 🔍 Exploring **Advanced Penetration Testing Techniques**  
+I'm **Nikhil Patidar**, a **Penetration Tester** focused on finding & exploiting real-world vulnerabilities in **Web Applications & Networks** 🕵️ Identifying security flaws before attackers do 🔐
 
-⚡ **Fun Fact:** *I don’t "hack" for fun, I hack to make the world safer!* 🔥  
+**🛠️ What I Do?**
 
+👨‍💻 Hands-on experience in **Web Exploitation, Linux Systems & Security Workflows**
+🤝 Working with **CTFs, Labs & Bug Bounty Style Testing**
+🔍 Active in **Security Research & CVE-Level Vulnerability Discovery**
 
+**⚡ Mission:** *I identify security flaws before attackers do!* 🔥
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
