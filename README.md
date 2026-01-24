@@ -10,12 +10,12 @@
   
 <div align="center">
     
-  <h1>Hi, I am <strong>NIKHIL PATIDAR</strong> 👋</h1>
+  <h1>Hi, I am <strong>NIKHIL PATIDAR</strong> 🙋‍♂️</h1>
 
-  <h2> <a href="https://certs.armourinfosec.com/aicwsa/nikhil-patidar/" target="_blank">AICWSA</a>, <a href="https://certs.armourinfosec.com/aiclsa/nikhil-patidar/" target="_blank">AICLSA</a>, <a href="https://certs.armourinfosec.com/aicwse/nikhil-patidar/" target="_blank">AICWSE</a>, <a href="https://academy.hackandfix.com/certificate-page/?user=3599&course=53700" target="_blank">CPPS</a> and <a href="https://www.udemy.com/certificate/UC-3b3d952f-94c3-4e25-8e32-2c1af63ee7aa/" target="_blank">CWPAT</a> Certified </h2>
+  <h2> 🛡️ <a href="https://certs.armourinfosec.com/aicwsa/nikhil-patidar/" target="_blank">AICWSA</a>, <a href="https://certs.armourinfosec.com/aiclsa/nikhil-patidar/" target="_blank">AICLSA</a>, <a href="https://certs.armourinfosec.com/aicwse/nikhil-patidar/" target="_blank">AICWSE</a>, <a href="https://academy.hackandfix.com/certificate-page/?user=3599&course=53700" target="_blank">CPPS</a> and <a href="https://www.udemy.com/certificate/UC-3b3d952f-94c3-4e25-8e32-2c1af63ee7aa/" target="_blank">CWPAT</a> Certified 🛡️ </h2>
   <div align="center">
   <h2 align="center"> 
-  👾🔥 Penetration Tester | Cybersecurity | Ethical Hacking 🔥👾
+  ⚡ Penetration Tester | Cybersecurity | Ethical Hacking 🔓
 </h2>
     
 <!-- <img src="https://github.com/nikhilpatidar01/nikhilpatidar01/blob/Master/3D%20Image.jpg" 
